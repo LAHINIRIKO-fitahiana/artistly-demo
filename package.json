@@ -18,6 +18,7 @@
   "license": "MIT",
   "dependencies": {
     "@hookform/resolvers": "^5.1.1",
+    "@tailwindcss/postcss": "^4.1.10",
     "autoprefixer": "^10.4.21",
     "next": "latest",
     "postcss": "^8.5.6",
