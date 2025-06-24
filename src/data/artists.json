@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "DJ Mamy",
+    "category": "DJ",
+    "location": "Antananarivo",
+    "price": 300
+  },
+  {
+    "id": 2,
+    "name": "Rija Gasy",
+    "category": "Singer",
+    "location": "Fianarantsoa",
+    "price": 150
+  }
+]
