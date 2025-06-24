@@ -24,3 +24,7 @@ body {
   background: linear-gradient(120deg, #3a3a72 0%, #d4418e 100%);
   font-family: 'Segoe UI', Arial, sans-serif;
 }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
